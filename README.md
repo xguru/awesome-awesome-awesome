@@ -19,3 +19,5 @@
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+Inspired by [@jonatasbaldin](https://github.com/jonatasbaldin/awesome-awesome-awesome) & [@t3chnoboy](https://github.com/t3chnoboy/awesome-awesome-awesome)
