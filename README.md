@@ -1,6 +1,6 @@
 # Awesome-Awesome-Awesome
 
-- Awesome 들을 모아놓은 Awesome 리스트들만 다시 모아 태깅한 Awesome
+- Awesome 들을 모아놓은 Awesome 리스트들만 다시 모아 태깅한 Awesome Meta List
 - 리파지토리 [Awesome 개수] : 카테고리들 또는 주요 분야 설명
 - Awesome 개수로 내림차순 정렬. 2020/04/20 기준 개수
 
